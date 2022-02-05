@@ -36,19 +36,144 @@ This course will be graded pass/fail. Active participation in class discussion, 
 Calendar
 --------
 
-| SES # | TOPICS |
-| --- | --- |
-| 1 | Introduction |
-| 2 | G-Protein coupled receptors and rhodopsin |
-| 3 | Visual cascade part I - Activation of rhodopsin by light |
-| 4 | Visual cascade part II - Rhodopsin and G protein (transducin) interaction |
-| 5 | Visit to an Atomic Force Microscopy Facility |
-| 6 | Rhodopsin dimerization |
-| 7 | Rhodopsin mutations, retinal degeneration and night blindness |
-| 8 | Field trip to the Novartis Institutes for BioMedical Research |
-| 9 | Drug addiction - Dopamine receptors and activation mechanism |
-| 10 | Allergies - Histamine receptors |
-| 11 | How do mutations in chemokine receptors inhibit CCR5-mediated HIV infection? |
-| 12 | Sense of smell: Olfactory receptors |
-| 13 | Sense of taste: Taste receptors |
-| 14 | Oral presentations: General discussion and future perspectives
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+G-Protein coupled receptors and rhodopsin
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Visual cascade part I - Activation of rhodopsin by light
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Visual cascade part II - Rhodopsin and G protein (transducin) interaction
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Visit to an Atomic Force Microscopy Facility
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Rhodopsin dimerization
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Rhodopsin mutations, retinal degeneration and night blindness
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Field trip to the Novartis Institutes for BioMedical Research
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Drug addiction - Dopamine receptors and activation mechanism
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Allergies - Histamine receptors
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+How do mutations in chemokine receptors inhibit CCR5-mediated HIV infection?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Sense of smell: Olfactory receptors
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Sense of taste: Taste receptors
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Oral presentations: General discussion and future perspectives
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
